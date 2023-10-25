@@ -1,0 +1,160 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+figure {
+  width: 10%;
+  margin: 0;
+}
+figure img {
+  width: 100%;
+}
+
+h1 {
+  flex-basis: 70%;
+  flex-grow: 1;
+  color: white;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav {
+  padding: 1rem;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+nav li {
+  width: 8rem;
+}
+
+.container {
+  width: 800px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+nav a {
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  font-size: large;
+  background-color: maroon;
+  color: white;
+  border-radius: 1rem;
+  width: 6rem;
+  height: 2rem;
+}
+nav a:hover {
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  font-size: large;
+  background-color: lightcoral;
+  color: white;
+  border-radius: 1rem;
+  width: 6rem;
+  height: 2rem;
+}
+
+header {
+  background-color: maroon;
+  margin: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  gap: 5;
+  width: 100%;
+}
+
+.srodek {
+  width: 50%;
+  display: flex;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+aside {
+  height: 30rem;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+article {
+  border: 1px solid maroon;
+  margin: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: small;
+}
+
+.gora {
+  width: 100%;
+}
+
+.dol {
+  width: 100%;
+}
+
+.lewa {
+  flex-basis: 40%;
+  flex-grow: 1;
+}
+
+.prawa {
+  flex-basis: 40%;
+  flex-grow: 1;
+}
+
+footer {
+  background-color: maroon;
+  color: white;
+  text-align: center;
+  gap: 1;
+  width: 100%;
+  margin-top: 1rem;
+}
+
+h2 {
+  color: maroon;
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  margin: auto;
+}
+
+th,
+tr,
+td {
+  border: 1px solid black;
+  color: maroon;
+  text-align: center;
+}
+
+.zdj {
+  width: 65%;
+  margin: auto;
+  text-align: center;
+}
+
+.kolor {
+  background-color: #f6bebe;
+}
