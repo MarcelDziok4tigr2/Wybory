@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <!DOCTYPE html>
+    <html lang="en">
+      <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Document</title>
+        <link rel="stylesheet" href="style2.css" />
+      </head>
+      <body>
+        <div class="container">
+          <header>
+            <figure>
+              <img
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Herb_Polski.svg/3158px-Herb_Polski.svg.png"
+              />
+            </figure>
+            <h1>Wyniki wyborów 2023</h1>
+          </header>
+          <nav>
+            <ul>
+              <li><a href="Wybory2.html">Wybory</a></li>
+              <li><a href="Sejm2.html">Sejm</a></li>
+              <li><a href="Senat2.html">Senat</a></li>
+            </ul>
+          </nav>
+          <h2>Wyniki wyborów do Senatu RP</h2>
+          <main>
+            <table>
+              <tr>
+                <th>Komitet</th>
+                <th>Liczba głosów</th>
+                <th>Procent głosów</th>
+                <th>Liczba mandatów</th>
+                <th>Procent mandatów</th>
+              </tr>
+              <tr class="kolor">
+                <td>KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  KOALICYJNY KOMITET WYBORCZY KOALICJA OBYWATELSKA PO .N IPL
+                  ZIELONI
+                </td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+              </tr>
+              <tr class="kolor">
+                <td>KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+              </tr>
+              <tr class="kolor">
+                <td>KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+              </tr>
+              <tr class="kolor">
+                <td>KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+              </tr>
+              <tr class="kolor">
+                <td>KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+              </tr>
+              <tr class="kolor">
+                <td>KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+              </tr>
+              <tr class="kolor">
+                <td>KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+              </tr>
+            </table>
+          </main>
+          <p class="zdj">
+            <img src="podział w Senacie.png" alt="" class="zdj" />
+          </p>
+          <footer><p>&copy;Marcel Dziok 4TI</p></footer>
+        </div>
+      </body>
+    </html>
+  </body>
+</html>
